@@ -1,0 +1,22 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\ExpenseIt\bin\Debug\ExpenseIt.exe.config
+C:\Users\Administrator\AppData\Local\Temporary Projects\ExpenseIt\bin\Debug\ExpenseIt.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\ExpenseIt\bin\Debug\ExpenseIt.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\ExpenseIt\obj\Debug\ExpenseIt.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\ExpenseIt\obj\Debug\ExpenseItHome.g.cs
+C:\Users\Administrator\AppData\Local\Temporary Projects\ExpenseIt\obj\Debug\ExpenseReportPage.g.cs
+C:\Users\Administrator\AppData\Local\Temporary Projects\ExpenseIt\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\AppData\Local\Temporary Projects\ExpenseIt\obj\Debug\App.g.cs
+C:\Users\Administrator\AppData\Local\Temporary Projects\ExpenseIt\obj\Debug\ExpenseIt_MarkupCompile.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\ExpenseIt\obj\Debug\ExpenseIt_MarkupCompile.lref
+C:\Users\Administrator\AppData\Local\Temporary Projects\ExpenseIt\obj\Debug\ExpenseItHome.baml
+C:\Users\Administrator\AppData\Local\Temporary Projects\ExpenseIt\obj\Debug\ExpenseReportPage.baml
+C:\Users\Administrator\AppData\Local\Temporary Projects\ExpenseIt\obj\Debug\MainWindow.baml
+C:\Users\Administrator\AppData\Local\Temporary Projects\ExpenseIt\obj\Debug\ExpenseIt.g.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\ExpenseIt\obj\Debug\ExpenseIt.Properties.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\ExpenseIt\obj\Debug\ExpenseIt.csproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\ExpenseIt\obj\Debug\ExpenseIt.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\ExpenseIt\obj\Debug\ExpenseIt.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\ExpenseIt\obj\Debug\App.baml
+C:\Users\Administrator\Desktop\测试程序\WPFtest\ExpenseIt\ExpenseIt\bin\Debug\ExpenseIt.exe.config
+C:\Users\Administrator\Desktop\测试程序\WPFtest\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.exe
+C:\Users\Administrator\Desktop\测试程序\WPFtest\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.pdb
